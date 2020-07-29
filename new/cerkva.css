@@ -1,0 +1,162 @@
+
+
+body{
+	background-color:#6E6E6E; 
+}
+.carova{
+	position:relative;
+	padding-left:18px;
+	width:300px;
+	height:280px;
+    left:150px; 
+}
+.ferbi{
+	position:relative;
+	padding-left:18px;
+	width:300px;
+	height:280px;
+    left:150px; 
+
+}
+/*start*/
+.black{
+    display:none;
+    padding:20px;
+    text-decoration:none; 
+    color:#666666; 
+    position:relative;
+    left:600px; 
+}
+
+.menu:hover .black{
+	display:block;
+
+}
+.black:hover{
+  background:#848484;
+  transition:all 0.5s ; 
+  margin-left:10px; 
+}
+.red:hover{
+	background:#848484;
+	transition:all 0.5s ;
+	margin-left:10px; 
+
+}
+li{
+    display:inline-block; 
+	margin-top:-15px;
+    padding-left:50px;
+    list-style:none; 
+
+}
+.menu{
+	margin-top:15px;
+	font-size:17px; 
+}
+/*end*/
+.red{
+    display:inline-block;
+    padding:20px;
+    text-decoration:none; 
+    color:#666666; 
+    position:relative;
+    left:600px;
+}
+.diva{
+	position:absolute;
+	background-color:#2E2E2E;
+	width:1582px;
+	height:160px;
+	top:-10px; 
+	left:0px;    
+}
+.cerkva{
+	position:absolute;
+	background-color:#424242;
+	width:1582px;
+	height:60px;
+	top:150px; 
+	left:0px;    
+}
+.kolokol{
+	background-color:#E0F8EC;
+	width:1582px;
+	height:4100px;
+	top:170px; 
+	left:0px;
+	position:absolute;
+}
+.werba{
+	position:absolute;
+    font-family:MyCustomFont;
+	bottom:-60px;
+	left:500px; 
+	font-size:75px;
+	color:#848484;    
+}
+.der{
+	position:absolute; 
+	width:130px; 
+	height:140px;
+	left:40px;
+	bottom:6px  
+}
+.tex{
+	position:relative;
+	font-weight:bold;
+	font-size:30px;  
+	font-family: 'Sail', cursive; 
+	text-align:center;
+	color:#1C1C1C;
+	top:200px;  
+}
+.img{
+	display:block;
+	margin-top:80px; 
+	margin-left:auto;
+	margin-right:auto;
+	width:1200px;
+	margin-top:250px; 
+	height:auto;    
+
+}
+.text{
+	position:relative;
+	font-weight:bold;
+	font-size:25px;  
+	font-family: 'Sail', cursive; 
+	text-align:center;
+	color:#1C1C1C;
+	top:20px;  
+}
+.texx{
+	position:relative;
+	width:1200px;
+	font-family: 'Zhi Mang Xing', cursive;
+	font-size:20px;  
+	text-align:justify;
+	color:#2E2E2E;
+	left:176px;
+	top:30px;  
+}
+.imeg{
+	display:block;
+	margin-top:80px; 
+	margin-left:auto;
+	margin-right:auto;
+	width:1200px;
+	margin-top:100px; 
+	height:auto; 
+}
+.texter{
+	position:relative;
+	width:1200px;
+	font-family: 'Zhi Mang Xing', cursive;
+	font-size:20px; 
+	font-weight:bold;  
+	text-align:center;
+	color:#2E2E2E;
+	left:175px;
+	top:30px;  
+}
